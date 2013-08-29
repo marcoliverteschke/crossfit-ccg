@@ -15,3 +15,8 @@ A rough draft for a CCG based on CrossFit. You know, for when you're travelling 
 * write description of arena (basic table setup)
 * write description of card types
 * write description of turn progression
+
+#### Design
+
+* create blank card template
+* create first set of demo cards
